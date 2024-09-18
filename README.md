@@ -15,4 +15,4 @@ Typically I create multiple exports, one for each year, and select 50GB as the d
 
 1. Extract the archive
 1. Use https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper to fix the photo dates
-1. Import into the Apple Photos app
+1. Import the fixed files into the Apple Photos app
